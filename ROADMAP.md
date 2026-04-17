@@ -78,7 +78,7 @@ This roadmap aligns with Pyxon’s **Junior** and **Senior AI Engineer** job des
 
 ## Next step: portfolio project
 
-After you have covered the phases above, pick **one** portfolio brief under the [Junior](projects/junior/README.md) (options **1–2**) or [Senior](projects/senior/README.md) (options **1–3**) track, implement it, and open a pull request. Include a **`prompts/`** folder in your submission (see **[projects/README.md](projects/README.md)**).
+After you have covered the phases above, pick **one** portfolio brief under the [Junior](projects/junior/README.md) (options **1–3**) or [Senior](projects/senior/README.md) (options **1–2**) track, implement it, and open a pull request. Include a **`prompts/`** folder in your submission (see **[projects/README.md](projects/README.md)**).
 
 ---
 

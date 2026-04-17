@@ -1,0 +1,19 @@
+This analysis covers a ~14-second clip of a match between Real Madrid (white) and Manchester City (dark green).
+
+### Summary
+The clip captures a Manchester City attacking transition that moves from the middle third into the Real Madrid penalty area. It begins with a settled Madrid defense and concludes with a high-danger scramble in the six-yard box. The sequence likely involves a pass into the box followed by a shot or cross that beats the goalkeeper, leaving the ball loose near the goal line.
+
+### What the stills show
+*   **Initial Setup (26:42):** Real Madrid is in a defensive block. Manchester City is in possession in the attacking half. The referee is positioned near the center circle.
+*   **The Attack (26:45):** The play has progressed to the edge of the box. The ball (marked with a green triangle) is moving toward the goal. A City player (No. 5) and a Madrid defender (No. 1) are in a footrace. The Madrid goalkeeper (No. 36, pink) is set.
+*   **The Scramble (26:49):** The ball is deep in the six-yard box near the goal line. The goalkeeper is on the ground, appearing beaten. City player No. 10 is in a prime position to tap the ball in or has just challenged for it.
+
+### Timeline interpretation
+*   **0.0s – 5.0s (Build-up):** The high player count (11–14) and ball position (x≈0.33 to 0.44) suggest a wide camera angle covering the midfield build-up.
+*   **5.5s – 8.5s (Entry into Box):** The ball shifts significantly to the right (x≈0.68) and the player count drops (from 12 down to 7). This likely indicates the camera panning and zooming in as the ball is played into the "danger zone" seen in the second still.
+*   **9.0s – 14.3s (Goalmouth Action):** The ball detection moves back toward the center-left of the frame (x≈0.37). Given the camera angle in the final still, this suggests the ball has been crossed or moved across the face of the goal. The player count remains low (8–9), confirming a tight focus on the immediate action around the goal.
+
+### Uncertainties
+*   **The Outcome:** While Image 3 shows a chaotic scene with the keeper down, it is impossible to confirm from this data if a goal was scored or if a last-second clearance occurred.
+*   **Ball Tracking:** The ball is "not detected" for roughly 70% of the timeline. This is likely due to high velocity (shots/crosses) or occlusion by the crowd of players in the box.
+*   **Referee Presence:** The referee count flickers between 0 and 1; they are likely moving in and out of the frame or obscured by players during the transition.

@@ -4,10 +4,10 @@ After the [learning roadmap](../ROADMAP.md), you can build a **portfolio project
 
 | Track | Projects |
 |--------|----------|
-| [Junior](junior/README.md) | [1 — Applied ML / NLP + Streamlit](junior/1/README.md) · [2 — RAG application](junior/2/README.md) |
-| [Senior](senior/README.md) | [1 — Agentic AI (search + web/API)](senior/1/README.md) · [2 — Production LLM/RAG service](senior/2/README.md) · [3 — Auto soccer commentary (vision + LLM + TTS)](senior/3/README.md) |
+| [Junior](junior/README.md) | [1 — Applied ML / NLP + Streamlit](junior/1/README.md) · [2 — RAG application](junior/2/README.md) · [3 — Football video & AI commentator](junior/3/README.md) |
+| [Senior](senior/README.md) | [1 — Agentic AI (search + web/API)](senior/1/README.md) · [2 — Production LLM/RAG service](senior/2/README.md) |
 
-**Junior** options follow a common path: classical ML demos → **RAG**. **Senior** adds **agentic tools**, **production** services, and an optional **multimodal** build (video + speech).
+**Junior** options: classical ML demos → **RAG** → **football video** (YOLO upstream) and optional **AI commentator** (LLM + TTS + EN/AR + DB), with **three submission levels**: (1) Flask + MP4 upload + TTS, (2) **WebSocket** live stream, (3) **dynamic** commentator + stream—see [junior/3/README.md](junior/3/README.md). **Senior** focuses on **agentic tools** and **production** LLM/RAG services.
 
 ---
 
@@ -70,7 +70,7 @@ If you are applying to a **specific company**, follow their official repo and de
 ## PR description (minimum)
 
 - **Contact** (email or phone)  
-- **Track** (Junior / Senior) and **project number** (Junior: **1 or 2**; Senior: **1, 2, or 3**)  
+- **Track** (Junior / Senior) and **project number** (Junior: **1, 2, or 3**; Senior: **1 or 2**)  
 - **Summary** and **how to run**  
 - **Demo link** when the project brief requires it  
 - Confirmation that **`prompts/`** is included and what format you used (A / B / C)
